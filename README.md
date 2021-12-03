@@ -2,9 +2,9 @@
 
 # Rooms App with Reviews - final practice for project #3
 
-Link to your backend repository here:
+Link to your backend repository here: https://github.com/simoneguimaraes/lab-express-rooms-backend
 
-Link to your frontend repository here:
+Link to your frontend repository here: https://github.com/simoneguimaraes/lab-express-rooms-frontend
 
 ## Introduction
 
